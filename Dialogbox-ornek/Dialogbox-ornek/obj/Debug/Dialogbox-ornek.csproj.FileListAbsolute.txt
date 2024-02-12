@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\bin\Debug\Dialogbox-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\bin\Debug\Dialogbox-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\bin\Debug\Dialogbox-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\Dialogbox-ornek\Dialogbox-ornek\obj\Debug\Dialogbox-ornek.pdb
